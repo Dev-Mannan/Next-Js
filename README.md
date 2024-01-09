@@ -1,23 +1,37 @@
-<i>Social buttons</i>
+<h1 align="center" id="title">Next js Learning</h1>
 
-[<img src="https://img.shields.io/static/v1?label=Dev-mannan&message=Next+Js&color=blue&logo=github" alt="Dev-mannan - Next Js">](https://github.com/Dev-mannan/Next Js &quot;Go to GitHub repo&quot;)
-[![stars - Next Js](https://img.shields.io/github/stars/Dev-mannan/Next Js?style=social)](https://github.com/Dev-mannan/Next Js)
-[![forks - Next Js](https://img.shields.io/github/forks/Dev-mannan/Next Js?style=social)](https://github.com/Dev-mannan/Next Js)
+<p id="description">In this repository you will see each concept of Next js which is superset of react js from route to Server side render to client side difference .</p>
 
-<i>Repo metadata</i>
+<p align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="shields"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="shields"></p>
 
-[![GitHub tag](https://img.shields.io/github/tag/Dev-mannan/Next Js?include_prereleases=&sort=semver&color=blue)](https://github.com/Dev-mannan/Next Js/releases/)
-<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-[![issues - Next Js](https://img.shields.io/github/issues/Dev-mannan/Next Js)](https://github.com/Dev-mannan/Next Js/issues)
+<h2>🚀 Demo</h2>
 
-<i>Call-to-Action buttons</i>
+[https://github.com/Dev-Mannan/Next-Js.git](https://github.com/Dev-Mannan/Next-Js.git)
 
-<div align="center">
-</div>
-<h2>Documentation</h2>
-<div align="center">
-<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+<h2>🛠️ Installation Steps:</h2>
 
-</div>
-<h2>License</h2>
-Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Dev-mannan">@Dev-mannan</a>.
+<p>1. Enter this command in your Directory terminal</p>
+
+```
+git clone https://github.com/Dev-Mannan/Next-Js.git
+```
+
+<p>2. after installation enter command</p>
+
+```
+cd Next-js
+```
+
+<p>3. final command</p>
+
+```
+npm run dev 
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+if you wanna add some of your code can free to pull request I'll review & merge
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
