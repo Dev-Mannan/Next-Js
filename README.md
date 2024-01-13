@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Next js Learning</h1>
 
-<p id="description">In this repository you will see each concept of Next js which is superset of react js from route to Server side render to client side difference .</p>
+<p id="description">In this repository you will see each concept of Next js which is superset of react js from route to Server side render to client side difference . also creating & testing nextjs application with multiple use cases</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="shields"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="shields"></p>
 
